@@ -22,7 +22,7 @@ The project uses the following Data from the blinkit grocery store csv data set 
 6. Outlet Location Type, 7. Outlet Size, 8. Outlet Type, 9. Item Visibility, 10. Item Weight,
 11. Sales, 12. Rating.
 ___________________________________________________________________________________________________________________________________________________________________________________________
-![Updated Photo](https://github.com/SubhajitDey2/Excel_Manna_Store_Analysis/blob/main/Visualization.PNG)
+![Updated Photo](https://github.com/SubhajitDey2/blinkit_grocery_store_analysis/blob/main/data_set_stored.PNG)
 
 
 # Tools Used
@@ -43,6 +43,8 @@ ________________________________________________________________________________
 *   Other types like **Grocery Stores** can be improved with better promotions.
 
 __________________________________________________________________________________________________________________________________________________________________________________________________
+![Updated Photo](https://github.com/SubhajitDey2/blinkit_grocery_store_analysis/blob/main/Visualization.PNG)
+
 
 ## Recommendations to Improvement’s
 
