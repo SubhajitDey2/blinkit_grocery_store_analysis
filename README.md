@@ -16,18 +16,23 @@ ________________________________________________________________________________
 
 # Data Sources
 
-The project uses the following Data from the blinkit grocery store csv data set from kaggle:
-
+**The project uses the following Data from the blinkit grocery store csv data set from kaggle:**
 1. Item Fat Content, 2. Item Identifier, 3. Item Type, 4. Outlet Establishment Year, 5. Outlet Identifier,
 6. Outlet Location Type, 7. Outlet Size, 8. Outlet Type, 9. Item Visibility, 10. Item Weight,
 11. Sales, 12. Rating.
+
+    
+![Updated Photo](https://github.com/SubhajitDey2/blinkit_grocery_store_analysis/blob/main/data_set_sorted.PNG)
+
 ___________________________________________________________________________________________________________________________________________________________________________________________
-![Updated Photo](https://github.com/SubhajitDey2/blinkit_grocery_store_analysis/blob/main/data_set_stored.PNG)
+
 
 
 # Tools Used
 
 * EXCEL: For Data Cleanzing, Data Formating, Data Modeling analyzing, Visualation and Reports.
+
+  ![Updated Photo](https://github.com/SubhajitDey2/blinkit_grocery_store_analysis/blob/main/Visualization.PNG)
 __________________________________________________________________________________________________________________________________________________________________________________________
 
 # Key Insights
