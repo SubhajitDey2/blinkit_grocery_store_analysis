@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 * EXCEL: For Data Cleanzing, Data Formating, Data Modeling analyzing, Visualation and Reports.
 
-  ![Updated Photo](https://github.com/SubhajitDey2/blinkit_grocery_store_analysis/blob/main/Visualization.PNG)
+  ![Updated Photo](https://github.com/SubhajitDey2/blinkit_grocery_store_analysis/blob/main/Pivot_Tables.PNG)
 __________________________________________________________________________________________________________________________________________________________________________________________
 
 # Key Insights
