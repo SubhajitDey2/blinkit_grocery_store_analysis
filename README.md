@@ -60,9 +60,8 @@ ________________________________________________________________________________
 3. Promote Low-Selling Items
 • Run promotions on Seafood, Breakfast items, and Starchy Foods to increase their sales.
 4. Stock More of Top-Selling Products
-• Ensure adequate stock of Fruits & Vegetables, Snack Foods, and Household Items to meet high 
-demand.
-6.Focus on Low Fat Products 
+• Ensure adequate stock of Fruits & Vegetables, Snack Foods, and Household Items to meet high demand.
+5.Focus on Low Fat Products 
 • Since most customers prefer Low fat products, prioritize stocking them over Regular-fat 
 alternatives
 
